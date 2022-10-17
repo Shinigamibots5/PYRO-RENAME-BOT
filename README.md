@@ -1,12 +1,12 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://te.legra.ph/file/51d142cd1c5817832dd5c.jpg" align="right" width="200" height="200"/>
 
-#  𝐏𝐘𝐑𝐎 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
+# 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓
 
 
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Shinigamibots5&repo=PYRO-RENAME-BOT&theme=dark)
 
 
 ### SAME BOT (official pyro rename bot)
