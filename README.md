@@ -12,7 +12,7 @@
 ### SAME BOT (official pyro rename bot)
 
 <p align="center">
-🤖 <a href="https://t.me/Pyro_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="https://t.me/BAE_WAFAAA"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 ### DEPLOYEMENT SUPPORT
@@ -20,7 +20,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT">
+<a href="https://heroku.com/deploy?template=https://github.com/Shinigamibots5/PYRO-RENAME-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -68,16 +68,16 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
-<a href="https://t.me/lntechnical">
-   <p> lntechnical TG</p>
+<a href="https://t.me/BAE_WAFAAA">
+   <p> DUDU </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> lntechnical YT </p>
+<a href="https://t.me/akimaxmovies">
+   <p> AKIMAX </p>
   </a>
 
-## 🤩 INSPIRATION
+## 🤩 DESI 
 
-<a href="https://youtube.com/c/MoTech_YT">
-   <p>❣️ MoTech 🔥</p>
+<a href="https://t.me/+RuRX0vNH3qkxYzEx">
+   <p>❣️ HornyHostel 🔥</p>
   </a>
 
